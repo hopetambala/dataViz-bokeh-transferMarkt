@@ -1,7 +1,12 @@
 # TransferMarket-python networkViz
 
 ## Description
-The goal of this project is to scrape and crawl through multiple pages of [TransferMarket.com](https://www.transfermarkt.com/) and create an interesting Network Visualization with [Bokeh](https://bokeh.pydata.org/en/latest/)
+The goal of this project is to scrape and crawl through multiple pages of [TransferMarket.com](https://www.transfermarkt.com/) and create an interesting Network Visualization  
+
+### Possible Libraries
+[Bokeh](https://bokeh.pydata.org/en/latest/)
+[NetworkX](https://networkx.github.io/documentation/stable/index.html)
+
 
 
 ## Project Layout
