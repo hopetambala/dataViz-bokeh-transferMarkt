@@ -16,10 +16,12 @@ The goal of this project is to scrape and crawl through multiple pages of [Trans
     └── README.md
 
 ## Install Required Dependencies
-Install and Enter Virtual Environment
+Install and Enter your Virtual Environment
 ```
-virtualenv venv
-source venv/bin/activate
+pip install virtualenv #if you don't have virtualenv installed 
+
+virtualenv <Name_of_Virtual_Environment>
+source <Name_of_Virtual_Environment>/bin/activate
 ```
 
 Install project requirements
