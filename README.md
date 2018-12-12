@@ -1,4 +1,14 @@
-# transferMarket-python networkViz
+# TransferMarket-python networkViz
+
+## Description
+The goal of this project is to scrape and crawl through multiple pages of [TransferMarket.com](https://www.transfermarkt.com/) and create an interesting Network Visualization with [Bokeh](https://bokeh.pydata.org/en/latest/)
+
+
+## Project Layout
+    ├── data                      # Folder for Generated JSON Cache, CSVs, and SQLite Database
+    ├── scripts                   # Crawling/Scraping Script, Database Importer Script
+    ├── queries.py                # SQLite Database Queries that returns a list of tuples
+    └── README.md
 
 ## Install Required Dependencies
 Install and Enter Virtual Environment
@@ -6,6 +16,7 @@ Install and Enter Virtual Environment
 virtualenv venv
 source venv/bin/activate
 ```
+
 Install project requirements
 ```
 pip install -r requirements.txt
