@@ -55,7 +55,8 @@ def create_soccer_db():
             'AverageAge' REAL NOT NULL,
             'NumberofForeigners' INTEGER NOT NULL,
             'TotalMarketValue' INTEGER NOT NULL,
-            'AverageMarketValue' INTEGER NOT NULL
+            'AverageMarketValue' INTEGER NOT NULL,
+            'League' TEXT NOT NULL
         );
     '''
     cur.execute(statement)
@@ -122,9 +123,9 @@ def populate_soccer_db():
                 row[6] = row[6].replace(',','')
                 row[6] = int(row[6])
 
-            insertion = (None, row[0], row[1], row[2], row[3], row[4], row[5], row[6])
+            insertion = (None, row[0], row[1], row[2], row[3], row[4], row[5], row[6],row[7])
             statement = 'INSERT INTO "Teams" '
-            statement += 'VALUES (?, ?, ?, ?, ?, ? ,?, ?)'
+            statement += 'VALUES (?, ?, ?, ?, ?, ? ,?, ?,?)'
             cur.execute(statement, insertion)
     
     with open('players.csv') as csvDataFile:
