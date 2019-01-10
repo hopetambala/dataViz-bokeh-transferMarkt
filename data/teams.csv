@@ -1,121 +1,167 @@
-Manchester City,Man City,26,"26,4",21,"1,09 Bill. €","41,98 Mill. €"
-Liverpool FC,Liverpool,25,"26,5",16,"913,00 Mill. €","36,52 Mill. €"
-Chelsea FC,Chelsea,28,"27,9",22,"892,25 Mill. €","31,87 Mill. €"
-Tottenham Hotspur,Spurs,26,"27,0",19,"837,50 Mill. €","32,21 Mill. €"
-Manchester United,Man Utd,26,"27,4",19,"835,00 Mill. €","32,12 Mill. €"
-Arsenal FC,Arsenal,25,"27,2",21,"574,00 Mill. €","22,96 Mill. €"
-Everton FC,Everton,28,"26,2",15,"426,00 Mill. €","15,21 Mill. €"
-Leicester City,Leicester,28,"27,6",19,"344,50 Mill. €","12,30 Mill. €"
-West Ham United,West Ham,26,"28,1",18,"287,50 Mill. €","11,06 Mill. €"
-Southampton FC,Southampton,25,"26,5",13,"266,10 Mill. €","10,64 Mill. €"
-Fulham FC,Fulham,25,"26,1",20,"250,50 Mill. €","10,02 Mill. €"
-Crystal Palace,Crystal Palace,26,"28,0",17,"219,25 Mill. €","8,43 Mill. €"
-Wolverhampton Wanderers,Wolves,23,"25,6",15,"218,00 Mill. €","9,48 Mill. €"
-AFC Bournemouth,Bournemouth,24,"27,5",9,"192,25 Mill. €","8,01 Mill. €"
-Burnley FC,Burnley,24,"29,3",11,"181,75 Mill. €","7,57 Mill. €"
-Brighton & Hove Albion,Brighton,24,"28,2",18,"177,00 Mill. €","7,38 Mill. €"
-Newcastle United,Newcastle,25,"27,2",19,"174,00 Mill. €","6,96 Mill. €"
-Watford FC,Watford,31,"27,5",24,"167,70 Mill. €","5,41 Mill. €"
-Huddersfield Town,Huddersfield,26,"26,0",21,"120,60 Mill. €","4,64 Mill. €"
-Cardiff City,Cardiff,27,"28,4",26,"94,10 Mill. €","3,49 Mill. €"
-Bayern Munich,Bayern Munich,24,"27,1",12,"807,93 Mill. €","33,66 Mill. €"
-Borussia Dortmund,Bor. Dortmund,29,"24,8",18,"472,30 Mill. €","16,29 Mill. €"
-Bayer 04 Leverkusen,Bay. Leverkusen,26,"25,3",15,"404,20 Mill. €","15,55 Mill. €"
-RB Leipzig,RB Leipzig,24,"23,8",18,"330,00 Mill. €","13,75 Mill. €"
-FC Schalke 04,FC Schalke 04,29,"26,4",18,"267,20 Mill. €","9,21 Mill. €"
-TSG 1899 Hoffenheim,TSG Hoffenheim,30,"25,1",17,"246,45 Mill. €","8,22 Mill. €"
-Borussia Mönchengladbach,Bor. M'gladbach,30,"25,2",17,"235,60 Mill. €","7,85 Mill. €"
-Hertha BSC,Hertha BSC,35,"24,5",16,"174,08 Mill. €","4,97 Mill. €"
-Eintracht Frankfurt,E. Frankfurt,36,"25,4",23,"166,50 Mill. €","4,63 Mill. €"
-VfB Stuttgart,VfB Stuttgart,26,"25,3",11,"165,30 Mill. €","6,36 Mill. €"
-VfL Wolfsburg,VfL Wolfsburg,31,"25,6",18,"156,25 Mill. €","5,04 Mill. €"
-SV Werder Bremen,Werder Bremen,33,"26,3",20,"133,90 Mill. €","4,06 Mill. €"
-FC Augsburg,FC Augsburg,32,"25,7",15,"113,00 Mill. €","3,53 Mill. €"
-1.FSV Mainz 05,1.FSV Mainz 05,31,"24,7",16,"108,00 Mill. €","3,48 Mill. €"
-Hannover 96,Hannover 96,26,"26,0",12,"99,35 Mill. €","3,82 Mill. €"
-SC Freiburg,SC Freiburg,29,"25,4",8,"88,15 Mill. €","3,04 Mill. €"
-1.FC Nuremberg,1.FC Nuremberg,28,"24,9",10,"49,93 Mill. €","1,78 Mill. €"
-Fortuna Düsseldorf,F. Düsseldorf,30,"25,9",13,"41,95 Mill. €","1,40 Mill. €"
-FC Barcelona,FC Barcelona,23,"26,9",15,"1,23 Bill. €","53,50 Mill. €"
-Real Madrid,Real Madrid,24,"26,7",12,"1,03 Bill. €","42,75 Mill. €"
-Atlético Madrid,Atlético Madrid,20,"27,3",13,"898,00 Mill. €","44,90 Mill. €"
-Valencia CF,Valencia,22,"26,0",14,"422,00 Mill. €","19,18 Mill. €"
-Sevilla FC,Sevilla FC,23,"27,8",14,"256,00 Mill. €","11,13 Mill. €"
-Real Sociedad,Real Sociedad,23,"25,7",6,"215,00 Mill. €","9,35 Mill. €"
-Athletic Bilbao,Athletic,26,"27,3",1,"208,60 Mill. €","8,02 Mill. €"
-Villarreal CF,Villarreal,26,"28,5",10,"196,10 Mill. €","7,54 Mill. €"
-Celta de Vigo,Celta de Vigo,25,"25,5",15,"190,60 Mill. €","7,62 Mill. €"
-Real Betis Balompié,Real Betis,21,"27,9",9,"190,00 Mill. €","9,05 Mill. €"
-RCD Espanyol Barcelona,Espanyol,22,"28,0",6,"103,40 Mill. €","4,70 Mill. €"
-CD Leganés,CD Leganés,28,"27,0",13,"86,70 Mill. €","3,10 Mill. €"
-Girona FC,Girona,21,"27,3",8,"86,30 Mill. €","4,11 Mill. €"
-Levante UD,Levante,26,"26,7",9,"86,00 Mill. €","3,31 Mill. €"
-Getafe CF,Getafe,23,"27,6",11,"80,40 Mill. €","3,50 Mill. €"
-Deportivo Alavés,Alavés,24,"26,3",8,"66,60 Mill. €","2,78 Mill. €"
-SD Eibar,SD Eibar,23,"28,6",7,"55,70 Mill. €","2,42 Mill. €"
-Rayo Vallecano,Rayo Vallecano,26,"27,6",10,"55,00 Mill. €","2,12 Mill. €"
-Real Valladolid CF,Real Valladolid,24,"27,2",5,"42,40 Mill. €","1,77 Mill. €"
-SD Huesca,SD Huesca,24,"28,0",11,"36,70 Mill. €","1,53 Mill. €"
-Paris Saint-Germain,Paris SG,28,"25,6",15,"867,65 Mill. €","30,99 Mill. €"
-Olympique Lyon,Olympique Lyon,26,"24,2",12,"369,40 Mill. €","14,21 Mill. €"
-AS Monaco,Monaco,33,"24,0",33,"295,40 Mill. €","8,95 Mill. €"
-Olympique Marseille,Marseille,29,"26,6",12,"272,30 Mill. €","9,39 Mill. €"
-OGC Nice,OGC Nice,27,"24,0",11,"141,35 Mill. €","5,24 Mill. €"
-LOSC Lille,LOSC Lille,24,"23,9",16,"128,55 Mill. €","5,36 Mill. €"
-Stade Rennais FC,Stade Rennais,28,"25,1",11,"125,00 Mill. €","4,46 Mill. €"
-FC Girondins Bordeaux,G. Bordeaux,29,"24,8",16,"120,75 Mill. €","4,16 Mill. €"
-FC Nantes,FC Nantes,31,"25,3",21,"108,80 Mill. €","3,51 Mill. €"
-AS Saint-Étienne,Saint-Étienne,26,"26,4",9,"86,50 Mill. €","3,33 Mill. €"
-FC Toulouse,Toulouse,28,"25,1",14,"80,30 Mill. €","2,87 Mill. €"
-FCO Dijon,Dijon,27,"26,9",13,"71,35 Mill. €","2,64 Mill. €"
-HSC Montpellier,Montpellier,24,"26,5",9,"65,45 Mill. €","2,73 Mill. €"
-RC Strasbourg Alsace,R. Strasbourg,27,"25,9",12,"65,00 Mill. €","2,41 Mill. €"
-Nîmes Olympique,Nîmes Olympique,27,"25,7",10,"63,60 Mill. €","2,36 Mill. €"
-SM Caen,SM Caen,28,"26,2",15,"59,60 Mill. €","2,13 Mill. €"
-SC Amiens,SC Amiens,26,"25,7",13,"53,00 Mill. €","2,04 Mill. €"
-SCO Angers,SCO Angers,29,"27,0",11,"52,60 Mill. €","1,81 Mill. €"
-EA Guingamp,Guingamp,23,"26,6",7,"48,45 Mill. €","2,11 Mill. €"
-Stade Reims,Reims,28,"25,5",15,"43,75 Mill. €","1,56 Mill. €"
-Juventus FC,Juventus,24,"28,3",14,"783,50 Mill. €","32,65 Mill. €"
-Inter Milan,Inter,24,"28,5",16,"555,10 Mill. €","23,13 Mill. €"
-SSC Napoli,SSC Napoli,25,"26,9",21,"515,50 Mill. €","20,62 Mill. €"
-AC Milan,AC Milan,29,"26,5",15,"486,00 Mill. €","16,76 Mill. €"
-AS Roma,AS Roma,25,"26,9",16,"382,05 Mill. €","15,28 Mill. €"
-SS Lazio,Lazio,34,"26,5",25,"337,70 Mill. €","9,93 Mill. €"
-ACF Fiorentina,Fiorentina,28,"24,1",22,"242,78 Mill. €","8,67 Mill. €"
-UC Sampdoria,Sampdoria,26,"26,0",16,"165,20 Mill. €","6,35 Mill. €"
-Atalanta BC,Atalanta,26,"25,3",17,"163,35 Mill. €","6,28 Mill. €"
-Torino FC,Torino,25,"26,6",14,"158,90 Mill. €","6,36 Mill. €"
-US Sassuolo,Sassuolo,29,"25,3",11,"132,53 Mill. €","4,57 Mill. €"
-Udinese Calcio,Udinese Calcio,29,"24,5",23,"115,35 Mill. €","3,98 Mill. €"
-Cagliari Calcio,Cagliari Calcio,25,"28,8",10,"112,48 Mill. €","4,50 Mill. €"
-Genoa CFC,Genoa,28,"26,5",19,"85,85 Mill. €","3,07 Mill. €"
-Bologna FC 1909,Bologna,27,"26,5",20,"72,38 Mill. €","2,68 Mill. €"
-SPAL 2013,SPAL,30,"27,0",11,"61,30 Mill. €","2,04 Mill. €"
-Parma Calcio 1913,Parma,33,"28,1",8,"56,63 Mill. €","1,72 Mill. €"
-Frosinone Calcio,Frosinone,32,"26,7",9,"46,85 Mill. €","1,46 Mill. €"
-FC Empoli,FC Empoli,31,"26,5",17,"45,58 Mill. €","1,47 Mill. €"
-Chievo Verona,Chievo Verona,31,"27,7",17,"42,00 Mill. €","1,35 Mill. €"
-Atlanta United FC,Atlanta United,31,"25,2",16,"43,25 Mill. €","1,40 Mill. €"
-Toronto FC,Toronto FC,29,"26,8",20,"33,70 Mill. €","1,16 Mill. €"
-Los Angeles FC,Los Angeles FC,28,"26,4",16,"32,95 Mill. €","1,18 Mill. €"
-Los Angeles Galaxy,LA Galaxy,26,"27,7",14,"27,98 Mill. €","1,08 Mill. €"
-Portland Timbers,Timbers,30,"27,2",22,"26,75 Mill. €",892 Th. €
-D.C. United,D.C. United,27,"26,7",13,"24,65 Mill. €",913 Th. €
-Seattle Sounders FC,Sounders FC,27,"27,3",15,"24,08 Mill. €",892 Th. €
-Vancouver Whitecaps,Vancouver,30,"25,7",21,"23,55 Mill. €",785 Th. €
-New York City FC,NYCFC,30,"25,9",18,"22,90 Mill. €",763 Th. €
-Sporting Kansas City,Kansas,28,"26,8",13,"21,78 Mill. €",778 Th. €
-Chicago Fire,Chicago Fire,29,"26,8",16,"20,98 Mill. €",723 Th. €
-Columbus Crew SC,Columbus Crew,27,"26,6",13,"20,93 Mill. €",775 Th. €
-New York Red Bulls,NY Red Bulls,29,"25,0",15,"20,55 Mill. €",709 Th. €
-Montreal Impact,Montreal Impact,31,"27,0",21,"19,78 Mill. €",638 Th. €
-Philadelphia Union,Philadelphia,28,"26,3",13,"18,80 Mill. €",671 Th. €
-San Jose Earthquakes,Quakes,30,"25,9",13,"18,13 Mill. €",604 Th. €
-Orlando City SC,Orlando City SC,29,"26,8",13,"17,65 Mill. €",609 Th. €
-Colorado Rapids,Colorado,29,"26,8",15,"17,38 Mill. €",599 Th. €
-Minnesota United FC,Minnesota Utd.,30,"27,5",16,"16,90 Mill. €",563 Th. €
-Real Salt Lake City,Salt Lake,31,"27,0",12,"16,03 Mill. €",517 Th. €
-FC Dallas,FC Dallas,29,"24,6",16,"15,40 Mill. €",531 Th. €
-Houston Dynamo,Houston,29,"27,8",15,"15,18 Mill. €",523 Th. €
-New England Revolution,Revolution,27,"26,4",14,"15,08 Mill. €",558 Th. €
+Manchester City,Man City,26,"26,4",21,"1,09 Bill. €","41,98 Mill. €",First Tier -  England
+Liverpool FC,Liverpool,25,"26,5",16,"913,00 Mill. €","36,52 Mill. €",First Tier -  England
+Chelsea FC,Chelsea,28,"27,9",22,"892,25 Mill. €","31,87 Mill. €",First Tier -  England
+Tottenham Hotspur,Spurs,26,"27,0",19,"837,50 Mill. €","32,21 Mill. €",First Tier -  England
+Manchester United,Man Utd,26,"27,4",19,"835,00 Mill. €","32,12 Mill. €",First Tier -  England
+Arsenal FC,Arsenal,25,"27,2",21,"574,00 Mill. €","22,96 Mill. €",First Tier -  England
+Everton FC,Everton,28,"26,2",15,"426,00 Mill. €","15,21 Mill. €",First Tier -  England
+Leicester City,Leicester,28,"27,6",19,"344,50 Mill. €","12,30 Mill. €",First Tier -  England
+West Ham United,West Ham,26,"28,1",18,"287,50 Mill. €","11,06 Mill. €",First Tier -  England
+Southampton FC,Southampton,25,"26,5",13,"266,10 Mill. €","10,64 Mill. €",First Tier -  England
+Fulham FC,Fulham,25,"26,1",20,"250,50 Mill. €","10,02 Mill. €",First Tier -  England
+Crystal Palace,Crystal Palace,26,"28,0",17,"219,25 Mill. €","8,43 Mill. €",First Tier -  England
+Wolverhampton Wanderers,Wolves,23,"25,6",15,"218,00 Mill. €","9,48 Mill. €",First Tier -  England
+AFC Bournemouth,Bournemouth,24,"27,5",9,"192,25 Mill. €","8,01 Mill. €",First Tier -  England
+Burnley FC,Burnley,24,"29,3",11,"181,75 Mill. €","7,57 Mill. €",First Tier -  England
+Brighton & Hove Albion,Brighton,24,"28,2",18,"177,00 Mill. €","7,38 Mill. €",First Tier -  England
+Newcastle United,Newcastle,25,"27,2",19,"174,00 Mill. €","6,96 Mill. €",First Tier -  England
+Watford FC,Watford,31,"27,5",24,"167,70 Mill. €","5,41 Mill. €",First Tier -  England
+Huddersfield Town,Huddersfield,26,"26,0",21,"120,60 Mill. €","4,64 Mill. €",First Tier -  England
+Cardiff City,Cardiff,27,"28,4",26,"94,10 Mill. €","3,49 Mill. €",First Tier -  England
+Bayern Munich,Bayern Munich,24,"27,1",12,"807,93 Mill. €","33,66 Mill. €",First Tier -  Germany
+Borussia Dortmund,Bor. Dortmund,29,"24,8",18,"472,30 Mill. €","16,29 Mill. €",First Tier -  Germany
+Bayer 04 Leverkusen,Bay. Leverkusen,26,"25,3",15,"404,20 Mill. €","15,55 Mill. €",First Tier -  Germany
+RB Leipzig,RB Leipzig,24,"23,8",18,"330,00 Mill. €","13,75 Mill. €",First Tier -  Germany
+FC Schalke 04,FC Schalke 04,29,"26,4",18,"267,20 Mill. €","9,21 Mill. €",First Tier -  Germany
+TSG 1899 Hoffenheim,TSG Hoffenheim,30,"25,1",17,"246,45 Mill. €","8,22 Mill. €",First Tier -  Germany
+Borussia Mönchengladbach,Bor. M'gladbach,30,"25,2",17,"235,60 Mill. €","7,85 Mill. €",First Tier -  Germany
+Hertha BSC,Hertha BSC,35,"24,5",16,"174,08 Mill. €","4,97 Mill. €",First Tier -  Germany
+Eintracht Frankfurt,E. Frankfurt,36,"25,4",23,"166,50 Mill. €","4,63 Mill. €",First Tier -  Germany
+VfB Stuttgart,VfB Stuttgart,26,"25,3",11,"165,30 Mill. €","6,36 Mill. €",First Tier -  Germany
+VfL Wolfsburg,VfL Wolfsburg,31,"25,6",18,"156,25 Mill. €","5,04 Mill. €",First Tier -  Germany
+SV Werder Bremen,Werder Bremen,33,"26,3",20,"133,90 Mill. €","4,06 Mill. €",First Tier -  Germany
+FC Augsburg,FC Augsburg,32,"25,7",15,"113,00 Mill. €","3,53 Mill. €",First Tier -  Germany
+1.FSV Mainz 05,1.FSV Mainz 05,31,"24,7",16,"108,00 Mill. €","3,48 Mill. €",First Tier -  Germany
+Hannover 96,Hannover 96,26,"26,0",12,"99,35 Mill. €","3,82 Mill. €",First Tier -  Germany
+SC Freiburg,SC Freiburg,29,"25,4",8,"88,15 Mill. €","3,04 Mill. €",First Tier -  Germany
+1.FC Nuremberg,1.FC Nuremberg,28,"24,9",10,"49,93 Mill. €","1,78 Mill. €",First Tier -  Germany
+Fortuna Düsseldorf,F. Düsseldorf,30,"25,9",13,"41,95 Mill. €","1,40 Mill. €",First Tier -  Germany
+FC Barcelona,FC Barcelona,23,"26,9",15,"1,23 Bill. €","53,50 Mill. €",First Tier -  Spain
+Real Madrid,Real Madrid,24,"26,7",12,"1,03 Bill. €","42,75 Mill. €",First Tier -  Spain
+Atlético Madrid,Atlético Madrid,20,"27,3",13,"898,00 Mill. €","44,90 Mill. €",First Tier -  Spain
+Valencia CF,Valencia,22,"26,0",14,"422,00 Mill. €","19,18 Mill. €",First Tier -  Spain
+Sevilla FC,Sevilla FC,23,"27,8",14,"256,00 Mill. €","11,13 Mill. €",First Tier -  Spain
+Real Sociedad,Real Sociedad,23,"25,7",6,"215,00 Mill. €","9,35 Mill. €",First Tier -  Spain
+Athletic Bilbao,Athletic,26,"27,3",1,"208,60 Mill. €","8,02 Mill. €",First Tier -  Spain
+Villarreal CF,Villarreal,26,"28,5",10,"196,10 Mill. €","7,54 Mill. €",First Tier -  Spain
+Celta de Vigo,Celta de Vigo,25,"25,5",15,"190,60 Mill. €","7,62 Mill. €",First Tier -  Spain
+Real Betis Balompié,Real Betis,21,"27,9",9,"190,00 Mill. €","9,05 Mill. €",First Tier -  Spain
+RCD Espanyol Barcelona,Espanyol,22,"28,0",6,"103,40 Mill. €","4,70 Mill. €",First Tier -  Spain
+CD Leganés,CD Leganés,28,"27,0",13,"86,70 Mill. €","3,10 Mill. €",First Tier -  Spain
+Girona FC,Girona,21,"27,3",8,"86,30 Mill. €","4,11 Mill. €",First Tier -  Spain
+Levante UD,Levante,26,"26,7",9,"86,00 Mill. €","3,31 Mill. €",First Tier -  Spain
+Getafe CF,Getafe,23,"27,6",11,"80,40 Mill. €","3,50 Mill. €",First Tier -  Spain
+Deportivo Alavés,Alavés,24,"26,3",8,"66,60 Mill. €","2,78 Mill. €",First Tier -  Spain
+SD Eibar,SD Eibar,23,"28,6",7,"55,70 Mill. €","2,42 Mill. €",First Tier -  Spain
+Rayo Vallecano,Rayo Vallecano,26,"27,6",10,"55,00 Mill. €","2,12 Mill. €",First Tier -  Spain
+Real Valladolid CF,Real Valladolid,24,"27,2",5,"42,40 Mill. €","1,77 Mill. €",First Tier -  Spain
+SD Huesca,SD Huesca,24,"28,0",11,"36,70 Mill. €","1,53 Mill. €",First Tier -  Spain
+Paris Saint-Germain,Paris SG,28,"25,6",15,"867,65 Mill. €","30,99 Mill. €",First Tier -  France
+Olympique Lyon,Olympique Lyon,26,"24,2",12,"369,40 Mill. €","14,21 Mill. €",First Tier -  France
+AS Monaco,Monaco,33,"24,0",33,"295,40 Mill. €","8,95 Mill. €",First Tier -  France
+Olympique Marseille,Marseille,29,"26,6",12,"272,30 Mill. €","9,39 Mill. €",First Tier -  France
+OGC Nice,OGC Nice,27,"24,0",11,"141,35 Mill. €","5,24 Mill. €",First Tier -  France
+LOSC Lille,LOSC Lille,24,"23,9",16,"128,55 Mill. €","5,36 Mill. €",First Tier -  France
+Stade Rennais FC,Stade Rennais,28,"25,1",11,"125,00 Mill. €","4,46 Mill. €",First Tier -  France
+FC Girondins Bordeaux,G. Bordeaux,29,"24,8",16,"120,75 Mill. €","4,16 Mill. €",First Tier -  France
+FC Nantes,FC Nantes,31,"25,3",21,"108,80 Mill. €","3,51 Mill. €",First Tier -  France
+AS Saint-Étienne,Saint-Étienne,26,"26,4",9,"86,50 Mill. €","3,33 Mill. €",First Tier -  France
+FC Toulouse,Toulouse,28,"25,1",14,"80,30 Mill. €","2,87 Mill. €",First Tier -  France
+FCO Dijon,Dijon,27,"26,9",13,"71,35 Mill. €","2,64 Mill. €",First Tier -  France
+HSC Montpellier,Montpellier,24,"26,5",9,"65,45 Mill. €","2,73 Mill. €",First Tier -  France
+RC Strasbourg Alsace,R. Strasbourg,27,"25,9",12,"65,00 Mill. €","2,41 Mill. €",First Tier -  France
+Nîmes Olympique,Nîmes Olympique,27,"25,7",10,"63,60 Mill. €","2,36 Mill. €",First Tier -  France
+SM Caen,SM Caen,28,"26,2",15,"59,60 Mill. €","2,13 Mill. €",First Tier -  France
+SC Amiens,SC Amiens,26,"25,7",13,"53,00 Mill. €","2,04 Mill. €",First Tier -  France
+SCO Angers,SCO Angers,29,"27,0",11,"52,60 Mill. €","1,81 Mill. €",First Tier -  France
+EA Guingamp,Guingamp,23,"26,6",7,"48,45 Mill. €","2,11 Mill. €",First Tier -  France
+Stade Reims,Reims,28,"25,5",15,"43,75 Mill. €","1,56 Mill. €",First Tier -  France
+Juventus FC,Juventus,24,"28,3",14,"783,50 Mill. €","32,65 Mill. €",First Tier -  Italy
+Inter Milan,Inter,24,"28,5",16,"555,10 Mill. €","23,13 Mill. €",First Tier -  Italy
+SSC Napoli,SSC Napoli,25,"26,9",21,"515,50 Mill. €","20,62 Mill. €",First Tier -  Italy
+AC Milan,AC Milan,29,"26,5",15,"486,00 Mill. €","16,76 Mill. €",First Tier -  Italy
+AS Roma,AS Roma,25,"26,9",16,"382,05 Mill. €","15,28 Mill. €",First Tier -  Italy
+SS Lazio,Lazio,34,"26,5",25,"337,70 Mill. €","9,93 Mill. €",First Tier -  Italy
+ACF Fiorentina,Fiorentina,28,"24,1",22,"242,78 Mill. €","8,67 Mill. €",First Tier -  Italy
+UC Sampdoria,Sampdoria,26,"26,0",16,"165,20 Mill. €","6,35 Mill. €",First Tier -  Italy
+Atalanta BC,Atalanta,26,"25,3",17,"163,35 Mill. €","6,28 Mill. €",First Tier -  Italy
+Torino FC,Torino,25,"26,6",14,"158,90 Mill. €","6,36 Mill. €",First Tier -  Italy
+US Sassuolo,Sassuolo,29,"25,3",11,"132,53 Mill. €","4,57 Mill. €",First Tier -  Italy
+Udinese Calcio,Udinese Calcio,29,"24,5",23,"115,35 Mill. €","3,98 Mill. €",First Tier -  Italy
+Cagliari Calcio,Cagliari Calcio,25,"28,8",10,"112,48 Mill. €","4,50 Mill. €",First Tier -  Italy
+Genoa CFC,Genoa,28,"26,5",19,"85,85 Mill. €","3,07 Mill. €",First Tier -  Italy
+Bologna FC 1909,Bologna,27,"26,5",20,"72,38 Mill. €","2,68 Mill. €",First Tier -  Italy
+SPAL 2013,SPAL,30,"27,0",11,"61,30 Mill. €","2,04 Mill. €",First Tier -  Italy
+Parma Calcio 1913,Parma,33,"28,1",8,"56,63 Mill. €","1,72 Mill. €",First Tier -  Italy
+Frosinone Calcio,Frosinone,32,"26,7",9,"46,85 Mill. €","1,46 Mill. €",First Tier -  Italy
+FC Empoli,FC Empoli,31,"26,5",17,"45,58 Mill. €","1,47 Mill. €",First Tier -  Italy
+Chievo Verona,Chievo Verona,31,"27,7",17,"42,00 Mill. €","1,35 Mill. €",First Tier -  Italy
+Sociedade Esportiva Palmeiras,Palmeiras,48,"24,8",4,"88,33 Mill. €","1,84 Mill. €",First Tier -  Brazil
+São Paulo Futebol Clube,São Paulo,50,"23,0",5,"70,88 Mill. €","1,42 Mill. €",First Tier -  Brazil
+Santos FC,Santos FC,46,"23,0",5,"68,00 Mill. €","1,48 Mill. €",First Tier -  Brazil
+Grêmio Foot-Ball Porto Alegrense,Grêmio,59,"24,5",2,"67,60 Mill. €","1,15 Mill. €",First Tier -  Brazil
+Clube de Regatas do Flamengo,Flamengo,48,"23,8",7,"67,38 Mill. €","1,40 Mill. €",First Tier -  Brazil
+Cruzeiro Esporte Clube,Cruzeiro,51,"24,0",5,"62,25 Mill. €","1,22 Mill. €",First Tier -  Brazil
+Sport Club Corinthians Paulista,Corinthians,54,"24,3",6,"61,40 Mill. €","1,14 Mill. €",First Tier -  Brazil
+Clube Atlético Mineiro,Atlético-MG,51,"23,3",6,"61,35 Mill. €","1,20 Mill. €",First Tier -  Brazil
+Sport Club Internacional,Internacional,46,"24,2",7,"55,75 Mill. €","1,21 Mill. €",First Tier -  Brazil
+Esporte Clube Vitória,EC Vitória,61,"23,5",6,"43,90 Mill. €",720 Th. €,First Tier -  Brazil
+Club de Regatas Vasco da Gama,Vasco da Gama,55,"23,9",7,"41,58 Mill. €",756 Th. €,First Tier -  Brazil
+Atlético Paranaense,Atlético-PR,52,"24,0",3,"37,65 Mill. €",724 Th. €,First Tier -  Brazil
+Esporte Clube Bahia,EC Bahia,48,"23,2",2,"34,90 Mill. €",727 Th. €,First Tier -  Brazil
+Associação Chapecoense de Futebol,Chapecoense,52,"24,8",5,"32,03 Mill. €",616 Th. €,First Tier -  Brazil
+Sport Club do Recife,Sport Recife,47,"24,1",1,"30,95 Mill. €",659 Th. €,First Tier -  Brazil
+Fluminense Football Club,Fluminense,58,"22,5",4,"30,80 Mill. €",531 Th. €,First Tier -  Brazil
+América Futebol Clube (MG),América-MG,51,"24,8",0,"27,35 Mill. €",536 Th. €,First Tier -  Brazil
+Ceará Sporting Club,Ceará SC,54,"26,0",2,"26,95 Mill. €",499 Th. €,First Tier -  Brazil
+Botafogo Rio de Janeiro,Botafogo,45,"23,1",4,"25,55 Mill. €",568 Th. €,First Tier -  Brazil
+Paraná Clube,Paraná,60,"22,9",3,"18,48 Mill. €",308 Th. €,First Tier -  Brazil
+Club Atlético Boca Juniors,Boca Juniors,26,"26,9",6,"118,33 Mill. €","4,55 Mill. €",First Tier -  Argentina
+Club Atlético River Plate,River Plate,23,"28,7",4,"104,95 Mill. €","4,56 Mill. €",First Tier -  Argentina
+Club Atlético Independiente,Independiente,22,"27,3",6,"61,20 Mill. €","2,78 Mill. €",First Tier -  Argentina
+Racing Club,Racing Club,30,"27,7",4,"59,18 Mill. €","1,97 Mill. €",First Tier -  Argentina
+Club Atlético Vélez Sarsfield,Vélez Sarsfield,27,"25,2",5,"48,53 Mill. €","1,80 Mill. €",First Tier -  Argentina
+Club Social y Deportivo Defensa y Justicia,Defensa,27,"25,9",5,"42,38 Mill. €","1,57 Mill. €",First Tier -  Argentina
+Club Atlético San Lorenzo de Almagro,San Lorenzo,31,"26,6",3,"36,95 Mill. €","1,19 Mill. €",First Tier -  Argentina
+Club Atlético Talleres,CA Talleres,26,"26,2",6,"35,43 Mill. €","1,36 Mill. €",First Tier -  Argentina
+Club Deportivo Godoy Cruz Antonio Tomba,Godoy Cruz,23,"24,4",5,"33,78 Mill. €","1,47 Mill. €",First Tier -  Argentina
+Club Atlético Lanús,Lanús,27,"26,1",3,"32,43 Mill. €","1,20 Mill. €",First Tier -  Argentina
+Club Atlético Huracán,Huracán,25,"29,1",5,"24,90 Mill. €",996 Th. €,First Tier -  Argentina
+Club Atlético Rosario Central,CA Rosario,25,"27,7",4,"23,35 Mill. €",934 Th. €,First Tier -  Argentina
+Club Atlético Colón,Colón,23,"27,7",4,"19,68 Mill. €",855 Th. €,First Tier -  Argentina
+Club Estudiantes de La Plata,Estudiantes,25,"27,1",3,"19,00 Mill. €",760 Th. €,First Tier -  Argentina
+Club Atlético Unión (Santa Fe),Unión (SF),19,"27,3",2,"18,40 Mill. €",968 Th. €,First Tier -  Argentina
+Asociación Atlética Argentinos Juniors,Argentinos,30,"25,9",5,"18,23 Mill. €",608 Th. €,First Tier -  Argentina
+Club Atlético Banfield,CA Banfield,21,"25,9",1,"17,63 Mill. €",839 Th. €,First Tier -  Argentina
+Club Atlético Tigre,Tigre,25,"29,0",1,"17,45 Mill. €",698 Th. €,First Tier -  Argentina
+Club Atlético Belgrano,Belgrano,26,"26,8",3,"17,05 Mill. €",656 Th. €,First Tier -  Argentina
+Club Atlético Newell's Old Boys,Newell's,29,"26,9",5,"16,60 Mill. €",572 Th. €,First Tier -  Argentina
+Club Atlético Tucumán,CA Tucumán,26,"29,4",3,"14,88 Mill. €",572 Th. €,First Tier -  Argentina
+Club Atlético Aldosivi,Aldosivi,27,"28,6",2,"14,15 Mill. €",524 Th. €,First Tier -  Argentina
+Club de Gimnasia y Esgrima La Plata,Gimnasia,29,"26,0",5,"13,98 Mill. €",482 Th. €,First Tier -  Argentina
+Club Atlético San Martín (SJ),San Martín,29,"28,9",4,"9,33 Mill. €",322 Th. €,First Tier -  Argentina
+Club Atlético San Martín (Tucumán),San Martín (T),23,"27,7",2,"6,60 Mill. €",287 Th. €,First Tier -  Argentina
+Club Atlético Patronato de la Juventud Católica,Patronato,25,"28,6",1,"4,93 Mill. €",197 Th. €,First Tier -  Argentina
+Atlanta United FC,Atlanta United,31,"25,2",16,"43,25 Mill. €","1,40 Mill. €",First Tier -  United States
+Toronto FC,Toronto FC,29,"26,8",20,"33,70 Mill. €","1,16 Mill. €",First Tier -  United States
+Los Angeles FC,Los Angeles FC,28,"26,4",16,"32,95 Mill. €","1,18 Mill. €",First Tier -  United States
+Los Angeles Galaxy,LA Galaxy,26,"27,7",14,"27,98 Mill. €","1,08 Mill. €",First Tier -  United States
+Portland Timbers,Timbers,30,"27,2",22,"26,75 Mill. €",892 Th. €,First Tier -  United States
+D.C. United,D.C. United,27,"26,7",13,"24,65 Mill. €",913 Th. €,First Tier -  United States
+Seattle Sounders FC,Sounders FC,27,"27,3",15,"24,08 Mill. €",892 Th. €,First Tier -  United States
+Vancouver Whitecaps,Vancouver,30,"25,7",21,"23,55 Mill. €",785 Th. €,First Tier -  United States
+New York City FC,NYCFC,30,"25,9",18,"22,90 Mill. €",763 Th. €,First Tier -  United States
+Sporting Kansas City,Kansas,28,"26,8",13,"21,78 Mill. €",778 Th. €,First Tier -  United States
+Chicago Fire,Chicago Fire,29,"26,8",16,"20,98 Mill. €",723 Th. €,First Tier -  United States
+Columbus Crew SC,Columbus Crew,27,"26,6",13,"20,93 Mill. €",775 Th. €,First Tier -  United States
+New York Red Bulls,NY Red Bulls,29,"25,0",15,"20,55 Mill. €",709 Th. €,First Tier -  United States
+Montreal Impact,Montreal Impact,31,"27,0",21,"19,78 Mill. €",638 Th. €,First Tier -  United States
+Philadelphia Union,Philadelphia,28,"26,3",13,"18,80 Mill. €",671 Th. €,First Tier -  United States
+San Jose Earthquakes,Quakes,30,"25,9",13,"18,13 Mill. €",604 Th. €,First Tier -  United States
+Orlando City SC,Orlando City SC,29,"26,8",13,"17,65 Mill. €",609 Th. €,First Tier -  United States
+Colorado Rapids,Colorado,29,"26,8",15,"17,38 Mill. €",599 Th. €,First Tier -  United States
+Minnesota United FC,Minnesota Utd.,30,"27,5",16,"16,90 Mill. €",563 Th. €,First Tier -  United States
+Real Salt Lake City,Salt Lake,31,"27,0",12,"16,03 Mill. €",517 Th. €,First Tier -  United States
+FC Dallas,FC Dallas,29,"24,6",16,"15,40 Mill. €",531 Th. €,First Tier -  United States
+Houston Dynamo,Houston,29,"27,8",15,"15,18 Mill. €",523 Th. €,First Tier -  United States
+New England Revolution,Revolution,27,"26,4",14,"15,08 Mill. €",558 Th. €,First Tier -  United States
