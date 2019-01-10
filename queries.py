@@ -1,4 +1,5 @@
 import sqlite3 as sqlite
+import pandas as pd
 #from sqlite3 import Error
 
 
@@ -8,7 +9,6 @@ def get_teams():
         SELECT * from Teams
         ORDER BY Teams.TotalMarketValue DESC; 
         '''
-
     conn = sqlite.connect('soccerDB.sqlite')
     cur = conn.cursor()
     cur.execute(statement)
@@ -32,6 +32,7 @@ def get_players():
 
 #Count of 
 def get_nationality_count():
+
     statement = '''
         SELECT Nationality ,COUNT(*) as count 
         FROM Players 
@@ -45,3 +46,13 @@ def get_nationality_count():
 
     rows = cur.fetchall()
     return(rows)
+
+
+def pandas_get_teams():
+    statement = '''
+        SELECT * from Teams
+        ORDER BY Teams.TotalMarketValue DESC; 
+        '''
+    conn = sqlite.connect('soccerDB.sqlite')
+    df = pd.read_sql_query(statement, conn)
+    return df 

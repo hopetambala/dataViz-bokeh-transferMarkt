@@ -32,6 +32,11 @@ Install Bokeh
 pip install bokeh
 ```
 
+Install Bokeh
+```
+pip install pandas
+```
+
 ## Getting Started
 Run scraper.py to scrape websites and create CSVs
 ```
@@ -54,3 +59,16 @@ or
 ```
 cd data
 mv soccerDB.sqlite ../
+
+## Run
+```
+python main.py
+```
+
+## Resources
+
+#Pandas and Sqlite
+https://www.dataquest.io/blog/python-pandas-databases/
+
+#Pandas and Bokeh
+https://programminghistorian.org/en/lessons/visualizing-with-bokeh
