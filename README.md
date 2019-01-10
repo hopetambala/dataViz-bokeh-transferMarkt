@@ -27,6 +27,11 @@ Install project requirements
 pip install -r requirements.txt
 ```
 
+Install Bokeh
+```
+pip install bokeh
+```
+
 ## Getting Started
 Run scraper.py to scrape websites and create CSVs
 ```

@@ -52,7 +52,6 @@ def getTeamsAndPlayers():
         ('serieAbrazil',"campeonato-brasileiro-serie-a/startseite/wettbewerb/BRA1/plus/?saison_id=2017"),  #Brazil
         ('primeradivision','primera-division/startseite/wettbewerb/AR1N/plus/?saison_id=2018'),             #Argentina
         ('mls','major-league-soccer/startseite/wettbewerb/MLS1/plus/?saison_id=2017')
-
     ]
     #League Information loop
     list_of_leagues = []
