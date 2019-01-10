@@ -44,11 +44,13 @@ def getWhoScoredDataSoup(cacheName, specifier):
 def getTeamsAndPlayers():
 
     leagues = [
-        ('premierleague','premier-league/startseite/wettbewerb/GB1/saison_id/2018'),
-        ('bundesliga','bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2018'),
-        ('laliga','laliga/startseite/wettbewerb/ES1/plus/?saison_id=2018'),
-        ('ligue1','ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2018'),
-        ('serieA',"serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2018"),
+        ('premierleague','premier-league/startseite/wettbewerb/GB1/saison_id/2018'),                       #England
+        ('bundesliga','bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2018'),                         #Germany
+        ('laliga','laliga/startseite/wettbewerb/ES1/plus/?saison_id=2018'),                                #Spain
+        ('ligue1','ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2018'),                               #France
+        ('serieA',"serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2018"),                               #Italy
+        ('serieAbrazil',"campeonato-brasileiro-serie-a/startseite/wettbewerb/BRA1/plus/?saison_id=2017"),  #Brazil
+        ('primeradivision','primera-division/startseite/wettbewerb/AR1N/plus/?saison_id=2018'),             #Argentina
         ('mls','major-league-soccer/startseite/wettbewerb/MLS1/plus/?saison_id=2017')
 
     ]
@@ -88,12 +90,16 @@ def getTeamsAndPlayers():
         divs = stats_soup.find("div", id="yw1").find('tbody') #gets me the teams table so I can crawl further
         rows = divs.find_all('tr') #Team table rows on league page
         
+        '''
+        Southampton FC      - Club Name
+        Southampton         - Nickname
+        25                  - Squad Number
+        13                  - Number of Players from Country Different than the Leagues
+        266,10 Mill         - Total Market Value of the Club
+        10,64               - Average Market Value of the Club
+        '''
         #Team Information Loop
         for row in rows:
-            #Club Name
-            img = row.find('img',alt=True)
-            #club_name = img['alt']
-
             teams_info = row.find_all('td')
 
 
@@ -106,10 +112,12 @@ def getTeamsAndPlayers():
             team.append(teams_info[5].text.strip(' \t\n\r\xa0'))
             team.append(teams_info[6].text.strip(' \t\n\r\xa0'))
             team.append(teams_info[7].text.strip(' \t\n\r\xa0'))
+            team.append(league[0])
             list_of_teams.append(team)
             '''
             for teams in teams_info:
                 print(teams.text)
+            print(league[0])
             '''
 
             #Club URL
@@ -148,7 +156,9 @@ def getTeamsAndPlayers():
                 
                 #Player Name
                 #print(row.find('td',class_='hide').text)
-                player.append(row.find('td',class_='hide').text)
+                #player.append(row.find('td',class_='hide').text)
+                player.append(row.find('td',class_='hide').text if row.find('td',class_='hide') is not None else row.find('a',class_='spielprofil_tooltip').text )
+
                 
                 #Position
                 all_trs = row.find('table',class_='inline-table').find_all('tr')
@@ -170,7 +180,10 @@ def getTeamsAndPlayers():
 
                 #Market Value
                 player.append(row.find('td',class_='rechts hauptlink').text)
-
+                
+                for p in player:
+                    print(p)
+                
                 list_of_players.append(player)
     
     return(list_of_leagues,list_of_players,list_of_teams)         
