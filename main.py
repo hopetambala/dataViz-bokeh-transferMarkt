@@ -38,7 +38,7 @@ def scatter_foreigners_totalMarketValue():
             source=source, 
             size=10, color='age_colors',line_color="black", fill_alpha=0.8)
     
-    #Configure Labes
+    #Configure Labels
     '''
     labels = LabelSet(x="NumberofForeigners", y="TotalMarketValue", text="Nickname", y_offset=8,
                   text_font_size="8pt", text_color="#555555",
@@ -65,7 +65,7 @@ def scatter_foreigners_totalMarketValue():
 
     p.add_tools(hover)
 
-    output_file("graphs/scatterPlot.html")
+    output_file("docs/scatterPlot.html")
 
     show(p)
 
