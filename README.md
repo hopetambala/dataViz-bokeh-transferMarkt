@@ -1,7 +1,7 @@
 # 2018 International Football TransferMarket Visualization in Bokeh
 
 ## Description
-The goal of this project is to scrape and crawl through multiple pages of [TransferMarket.com](https://www.transfermarkt.com/) and create an interesting Bokeh Visualization! Look 
+The goal of this project is to scrape and crawl through multiple pages of [TransferMarket.com](https://www.transfermarkt.com/) and create an interesting Bokeh Visualization  
 
 ### Possible Libraries
 [Bokeh](https://bokeh.pydata.org/en/latest/)
