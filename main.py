@@ -39,12 +39,7 @@ def scatter_foreigners_totalMarketValue():
             size=10, color='age_colors',line_color="black", fill_alpha=0.8)
     
     #Configure Labels
-    '''
-    labels = LabelSet(x="NumberofForeigners", y="TotalMarketValue", text="Nickname", y_offset=8,
-                  text_font_size="8pt", text_color="#555555",
-                  source=source, text_align='center')
-    p.add_layout(labels)
-    '''
+
 
     #Configure Color of Average Ages
     color_bar = ColorBar(color_mapper=color_mapper, ticker=LogTicker(),label_standoff=12, border_line_color=None, location=(0,0))
