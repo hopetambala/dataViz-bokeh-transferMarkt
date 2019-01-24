@@ -5,9 +5,12 @@
 </p>
 
 ## Description
-The goal of this project is to scrape and crawl through multiple pages of [TransferMarket.com](https://www.transfermarkt.com/) and create an interesting Bokeh Visualization. The data was scrapped using BeautifulSoup and compiled into a SQLite database. Then SQL queries were constructed and the query results were loaded into a Pandas to allow for easier data manipulation. Finally, that data was loaded into Bokeh to create a Scatter Plot that explores the relationships between a soccer teams A) Average Squad Age B) 2018 Squad Market Value and C) Number of Foreign Players found in each Squad.
+The goal of this project is to scrape and crawl through multiple pages of [TransferMarket.com](https://www.transfermarkt.com/) and create an interesting Bokeh Visualization. The data was scrapped using BeautifulSoup and compiled into a SQLite database. Then SQL queries were constructed and the query results were loaded into a Pandas to allow for easier data manipulation. Finally, that data was loaded into Bokeh to create a Scatter Plot that explores the relationships between a soccer teams 
+A) Average Squad Age 
+B) 2018 Squad Market Value and 
+C) Number of Foreign Players found in each Squad.
 
-### Possible Libraries
+### Data Visualization Libraries
 [Bokeh](https://bokeh.pydata.org/en/latest/)
 
 
