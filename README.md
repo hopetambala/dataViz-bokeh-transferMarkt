@@ -1,7 +1,7 @@
 # 2018 International Football TransferMarket Visualization in Bokeh
 
 ## Description
-The goal of this project is to scrape and crawl through multiple pages of [TransferMarket.com](https://www.transfermarkt.com/) and create an interesting Bokeh Visualization  
+The goal of this project is to scrape and crawl through multiple pages of [TransferMarket.com](https://www.transfermarkt.com/) and create an interesting Bokeh Visualization. The data was scrapped using BeautifulSoup and compiled into a SQLite database. Then SQL queries were constructed and the query results were loaded into a Pandas to allow for easier data manipulation. Finally, that data was loaded into Bokeh to create a Scatter Plot that explores the relationships between a soccer teams A) Average Squad Age B) 2018 Squad Market Value and C) Number of Foreign Players found in each Squad.
 
 ### Possible Libraries
 [Bokeh](https://bokeh.pydata.org/en/latest/)
@@ -59,8 +59,10 @@ or
 ```
 cd data
 mv soccerDB.sqlite ../
+```
 
 ## Run
+
 ```
 python main.py
 ```
@@ -75,12 +77,52 @@ https://programminghistorian.org/en/lessons/visualizing-with-bokeh
 
 
 # Tutorial
-> by Hope Tambala
 
-# Key Functions
+## Key Functions
+
+### Get Teams using pandas_get_teams() in queries.py
+```
+statement = '''
+    SELECT * from Teams
+    ORDER BY Teams.TotalMarketValue DESC; 
+    '''
+conn = sqlite.connect('soccerDB.sqlite')
+df = pd.read_sql_query(statement, conn)
+return df 
+```
+This above function uses Pandas "read_sql_query()" function to automatically load the results of a SQL query into a database. Very easy to use 
+
+### Load Data Into Bokeh
+```
+df = pandas_get_teams()
+...
+source = ColumnDataSource(df)
+```
+
+### Color Mapper
+```
+palette = ["#053061", "#2166ac", "#4393c3", "#92c5de", "#d1e5f0","#f7f7f7", "#fddbc7","#f4a582", "#d6604d", "#b2182b", "#67001f"]
+
+AverageAge = df["AverageAge"]
+
+low = min(AverageAge)
+high = max(AverageAge)
+AverageAge_inds = [int(10*(x-low)/(high-low)) for x in AverageAge]
+
+df['age_colors'] = [palette[i] for i in AverageAge_inds]
+
+color_mapper = LogColorMapper(palette=palette, low=low, high=high)
+```
+In order to map the average squad ages to one of the colors found in the palette list:
+- Use Numpy's min/max functions to get the minimum/maximum of the list of squad ages
+- Create a list (using list comprehension) to give average age a value from 0-10 and
+- Create a Pandas Column that attaches each one of the the palette colors to a row in our df.
+
+# Key Takeaways 
+Bokeh is great for rapid data visualization development. It's simple to use especially when using a Pandas Dataframe to manage your data! To style your application, there are a variety of [widgets](https://bokeh.pydata.org/en/latest/docs/user_guide/interaction/widgets.html) to add and expand interactive funcitonality.
 
 # Limitations
+Bokeh isn't really python-only. It generates an HTML file with your visualization on it. Potentially useful for web development environmenta.s
 
-# Conclusion 
 
 
