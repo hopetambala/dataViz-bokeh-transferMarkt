@@ -125,7 +125,7 @@ In order to map the average squad ages to one of the colors found in the palette
 # Key Takeaways 
 Bokeh is great for rapid data visualization development. It's simple to use especially when using a Pandas Dataframe to manage your data! To style your application, there are a variety of [widgets](https://bokeh.pydata.org/en/latest/docs/user_guide/interaction/widgets.html) to add and expand interactive funcitonality.
 
-The actual visualization generated comes with alot of built-in interactive abilities that don't need to be coded in. You can save a 
+The actual visualization generated comes with alot of built-in interactive abilities that don't need to be coded in. You can save a png of your graph for instant sharing and zoom in/out or pan the visualization without explicitly writing code to add those functionalities!
 
 # Limitations
 Bokeh isn't really python-only. It generates an HTML file with your visualization on it. Potentially useful for web development environmenta.s
