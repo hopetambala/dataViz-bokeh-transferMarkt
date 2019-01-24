@@ -1,5 +1,9 @@
 # 2018 International Football TransferMarket Visualization in Bokeh
 
+<p>
+
+</p>
+
 ## Description
 The goal of this project is to scrape and crawl through multiple pages of [TransferMarket.com](https://www.transfermarkt.com/) and create an interesting Bokeh Visualization. The data was scrapped using BeautifulSoup and compiled into a SQLite database. Then SQL queries were constructed and the query results were loaded into a Pandas to allow for easier data manipulation. Finally, that data was loaded into Bokeh to create a Scatter Plot that explores the relationships between a soccer teams A) Average Squad Age B) 2018 Squad Market Value and C) Number of Foreign Players found in each Squad.
 
@@ -120,6 +124,8 @@ In order to map the average squad ages to one of the colors found in the palette
 
 # Key Takeaways 
 Bokeh is great for rapid data visualization development. It's simple to use especially when using a Pandas Dataframe to manage your data! To style your application, there are a variety of [widgets](https://bokeh.pydata.org/en/latest/docs/user_guide/interaction/widgets.html) to add and expand interactive funcitonality.
+
+The actual visualization generated comes with alot of built-in interactive abilities that don't need to be coded in. You can save a 
 
 # Limitations
 Bokeh isn't really python-only. It generates an HTML file with your visualization on it. Potentially useful for web development environmenta.s
