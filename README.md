@@ -1,7 +1,7 @@
 # 2018 International Football TransferMarket Visualization in Bokeh
 
-<p>
-
+<p align="middle">
+    <img src="https://github.com/hopetambala/dataViz-bokeh-transferMarkt/blob/master/docs/scatter.png">
 </p>
 
 ## Description
