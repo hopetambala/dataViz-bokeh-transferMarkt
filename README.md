@@ -4,6 +4,9 @@
     <img src="https://github.com/hopetambala/dataViz-bokeh-transferMarkt/blob/master/docs/scatter.png">
 </p>
 
+
+## Demos
+[Interactive Chart](https://hopetambala.github.io/dataViz-bokeh-transferMarkt/docs/scatterPlot.html)
 ## Description
 The goal of this project is to scrape and crawl through multiple pages of [TransferMarket.com](https://www.transfermarkt.com/) and create an interesting Bokeh Visualization. The data was scrapped using BeautifulSoup and compiled into a SQLite database. Then SQL queries were constructed and the query results were loaded into a Pandas to allow for easier data manipulation. Finally, that data was loaded into Bokeh to create a Scatter Plot that explores the relationships between a soccer teams 
 A) Average Squad Age 
